@@ -1,0 +1,7 @@
+C:\Users\Studente\Desktop\Read\bin\Debug\Read.exe.config
+C:\Users\Studente\Desktop\Read\bin\Debug\Read.exe
+C:\Users\Studente\Desktop\Read\bin\Debug\Read.pdb
+C:\Users\Studente\Desktop\Read\obj\Debug\Read.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\Read\obj\Debug\Read.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\Read\obj\Debug\Read.exe
+C:\Users\Studente\Desktop\Read\obj\Debug\Read.pdb
