@@ -1,0 +1,8 @@
+C:\Users\marco\Desktop\Matteo\school\informatica\progetti\ElencoTelefonico\ElencoTelefonico\bin\Debug\ElencoTelefonico.exe.config
+C:\Users\marco\Desktop\Matteo\school\informatica\progetti\ElencoTelefonico\ElencoTelefonico\bin\Debug\ElencoTelefonico.exe
+C:\Users\marco\Desktop\Matteo\school\informatica\progetti\ElencoTelefonico\ElencoTelefonico\bin\Debug\ElencoTelefonico.pdb
+C:\Users\marco\Desktop\Matteo\school\informatica\progetti\ElencoTelefonico\ElencoTelefonico\obj\Debug\ElencoTelefonico.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\Matteo\school\informatica\progetti\ElencoTelefonico\ElencoTelefonico\obj\Debug\ElencoTelefonico.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Desktop\Matteo\school\informatica\progetti\ElencoTelefonico\ElencoTelefonico\obj\Debug\ElencoTelefonico.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Matteo\school\informatica\progetti\ElencoTelefonico\ElencoTelefonico\obj\Debug\ElencoTelefonico.exe
+C:\Users\marco\Desktop\Matteo\school\informatica\progetti\ElencoTelefonico\ElencoTelefonico\obj\Debug\ElencoTelefonico.pdb
